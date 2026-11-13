@@ -1,0 +1,41 @@
+*{
+    color: aqua;
+    background-color: green;
+    text-align: center;
+}
+h1{
+    border: double;
+    border-color: red;
+    border-width: 3px;
+    border: 5px;
+    border:groove gray;
+    border-radius: 15px;
+    border-left: 0px;
+    border-right: 0px;
+}
+p{
+    margin-top: 25;
+    margin-bottom: 50;
+    margin-left: 40;
+    margin-right: 75;
+}
+.redaction-10-regular {
+  font-family: "Redaction 10", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.redaction-10-bold {
+  font-family: "Redaction 10", serif;
+  font-weight: 700;
+  font-style: normal;
+}
+
+.redaction-10-regular-italic {
+  font-family: "Redaction 10", serif;
+  font-weight: 400;
+  font-style: italic;
+}
+marquee color{
+    color: blue;
+}
